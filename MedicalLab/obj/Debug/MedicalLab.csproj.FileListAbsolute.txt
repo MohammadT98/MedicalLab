@@ -1,0 +1,402 @@
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\user\source\repos\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\user\source\repos\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+D:\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+D:\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+D:\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+D:\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+D:\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+D:\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+D:\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\New folder (2)\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\0.final\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\1.test\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+C:\Users\Navid\Desktop\projectt\backup\0.final for send\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\Resources\A.Chamran_p30download.com.ttf
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe.config
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\MedicalLab.exe
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\MedicalLab.pdb
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.dll
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\bin\Debug\MD.PersianDateTime.xml
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.AssemblyReference.cache
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmBeforeStart.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmCenterSpecifications.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmDoctorsInformation.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmExperiments.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmFinancialReport.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmInsurances.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMessageBox1.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformation.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientInformationReport.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmPatientReception.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmReceptioners.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmResults.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSamplingPhysician.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmStart.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmMain.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSupport.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.Properties.Resources.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.frmSetting.resources
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.GenerateResource.cache
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe.licenses
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CoreCompileInputs.cache
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.csproj.CopyComplete
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.exe
+D:\to git\projectt\C sharp Project\MedicalLab\MedicalLab\obj\Debug\MedicalLab.pdb
